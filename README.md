@@ -6,3 +6,6 @@ Below is the Power Bi report:-
 
 Below is again Power Bi report
 https://app.powerbi.com/reportEmbed?reportId=b6394f91-ba31-4ba0-8693-c78184981d4c&autoAuth=true&ctid=8c4a594c-3c88-495b-ad83-7ca54bf53753
+
+below is third view_
+https://app.powerbi.com/view?r=eyJrIjoiZGE2NWJkYWYtYzExMy00ZDZhLTk2OTctOGI4NWIzZTQ5Y2IxIiwidCI6IjhjNGE1OTRjLTNjODgtNDk1Yi1hZDgzLTdjYTU0YmY1Mzc1MyJ9
