@@ -1,6 +1,6 @@
-# Banking-Finance-Analytics-Automated-Dashboard
+# Banking-Finance-Analytics-Automated-Portfolio
 
-## [Banking-Finance-Analytics-Automated-Dashboard Repository](https://github.com/Vibhor2256/Banking-Finance-Analytics-Automated)
+## [Banking-Finance-Analytics-Automated-Repository](https://github.com/Vibhor2256/Banking-Finance-Analytics-Automated)
 
 This portfolio showcases an interactive report made for a bank which shared its details for past 5 years. The report showcases various usefull insights and <b>key performance indicator (KPIs)</b> using the provided dataset. The visualization is shown in one <b>Power BI report</b> and the way this report works is that it updates itself automatically, every time the client/stakeholder adds new dataset or information into one of the dimensional table on his cloud platform. This way as per client/stakeholder behaviour, everytime they upload new transaction details dataset, the <b>report fetches the data automatically</b> and refreshes itself in <b>every 24 hours</b> giving you the updated KPIs.
 
